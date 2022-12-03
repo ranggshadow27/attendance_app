@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "639425989754",
+    "project_id": "attendance-4d6c5",
+    "storage_bucket": "attendance-4d6c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639425989754:android:e8fab5de79ef7bc05cffc3",
+        "android_client_info": {
+          "package_name": "com.ranggsh.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639425989754-s0r51uhbabgebk82566po1i8dbgldb2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrW3CoiuHaeKsV3w8HxAesvccNZ6u1-Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639425989754-s0r51uhbabgebk82566po1i8dbgldb2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639425989754-9vi6tqmtjldd87p4c34misl3i1j27ubj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ranggsh.attendanceApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639425989754:android:91aec604997c14b65cffc3",
+        "android_client_info": {
+          "package_name": "com.ranggsh.attendance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639425989754-raghq3ep6fi1ul5esd09b7buatrti93i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ranggsh.attendance_app",
+            "certificate_hash": "42bccf45baf3b3c385b9297124b3cc8b9e5d731d"
+          }
+        },
+        {
+          "client_id": "639425989754-s0r51uhbabgebk82566po1i8dbgldb2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrW3CoiuHaeKsV3w8HxAesvccNZ6u1-Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639425989754-s0r51uhbabgebk82566po1i8dbgldb2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639425989754-9vi6tqmtjldd87p4c34misl3i1j27ubj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ranggsh.attendanceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
